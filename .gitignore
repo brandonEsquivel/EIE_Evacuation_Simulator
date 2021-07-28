@@ -20,6 +20,8 @@
 # Ignoring specific Assets (must be downloaded individual)
 /[Aa]ssets/TerrainTexturesPackFree*
 /[Aa]ssets/3DGamekit*
+/[Aa]ssets/PBR_Grass_Textures*
+/[Aa]ssets/Standard_Assets*
 
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
