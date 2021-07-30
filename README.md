@@ -12,3 +12,6 @@ The [3D Game Kit](https://assetstore.unity.com/packages/templates/tutorials/3d-g
 - Brandon Esquivel Molina brandon.esquivel@ucr.ac.cr
 - Emmanuel Morera Salas emmanuel.morera@ucr.ac.cr
 - Laura Rojas Zumbado laura.rojaszumbado@ucr.ac.cr
+
+## Link del video demo:
+https://youtu.be/QLMRmxVePhE
