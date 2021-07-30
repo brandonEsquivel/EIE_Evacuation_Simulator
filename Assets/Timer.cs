@@ -26,6 +26,16 @@ public class Timer : MonoBehaviour
     public void Finnish() 
     {
         finnished = true;
-        timerText.color = Color.yellow;
+        string[] words = timerText.text.Split(':');
+        
+        if(words[0]=="1"){
+       	timerText.color = Color.yellow;
+        }
+        else if (words[0]=="0"){
+        	timerText.color = Color.green;
+        }
+        else{
+        	timerText.color = Color.red;
+        }
     }
 }
